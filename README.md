@@ -1,6 +1,6 @@
 # Sound_Pad
 
-## My New Flutter Project
+## My Second Flutter Project
 
 just a simple application which looks like super pad.
 
