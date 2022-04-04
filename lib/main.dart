@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Sound_Pad',
+      title: 'Sound_Pad',// inspire from super pad
       theme: lightTheme,
-      darkTheme: darkTheme,
+      darkTheme: darkTheme,//default theme is dark
       themeMode: ThemeMode.dark,
       home: const PadScreen(),
     );
